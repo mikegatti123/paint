@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\obj\Debug\Panit.vbprojResolveAssemblyReference.cache
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\obj\Debug\Panit.Form1.resources
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\obj\Debug\Panit.Resources.resources
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\obj\Debug\Panit.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\bin\Debug\Panit.exe.config
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\bin\Debug\Panit.exe
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\bin\Debug\Panit.pdb
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\bin\Debug\Panit.xml
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\obj\Debug\Panit.exe
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\obj\Debug\Panit.xml
+C:\Users\CCLC\Documents\Michael Gatti\Panit\Panit\obj\Debug\Panit.pdb
